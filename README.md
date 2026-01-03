@@ -13,24 +13,35 @@ Building clean, responsive & user-friendly web applications
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nio420&label=Profile%20views&color=0e75b6&style=flat" alt="nio420" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nio420" alt="nio420" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/naimul420" target="blank"><img src="https://img.shields.io/twitter/follow/naimul420?logo=twitter&style=for-the-badge" alt="naimul420" /></a> </p>
+
+- 🔭 I’m currently working on **Up work**
+
+- 🌱 I’m currently learning **Node Js**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 🤝 I’m looking for help with **mern stack**
+
+- 👨‍💻 All of my projects are available at [https://nio420.github.io/Portfolio/](https://nio420.github.io/Portfolio/)
+
+- 💬 Ask me about **web development**
+
+- 📫 How to reach me **Email please**
 
 ## 🚀 About Me
 
 - 🎓 **BSc in Computer Science & Engineering (CSE)**
-- 💼 Former **Senior Software Engineer – Tech Soldier BPO**
-- 💰 **2+ years experience** in Merchant Cash Advance (MCA)
+- 💼 Former **junior web Engineer – Tech Soldier BPO**
+- 💰 **2+ years experience** in web development 
 - 🌐 Focused on **Full-Stack Web Development**
 - 🌱 Currently learning **Node.js & MERN Stack**
 - 🧠 Final Year Project: **Rescue Network & IoT Flood System**
 - ⚡ Fun fact: *I enjoy turning complex problems into simple, clean solutions.*
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,mongodb,git,github,bootstrap,tailwind,figma,firebase,docker" />
-</p>
 
 ---
 
@@ -39,8 +50,17 @@ Building clean, responsive & user-friendly web applications
 - 🌐 **Portfolio Website**  
   🔗 https://nio420.github.io/Portfolio/
 
-- 🌊 **Rescue Network & IoT Devices for Flood Areas**  
-  📡 IoT + Web Dashboard (Final Defense Project)
+- 🛒 **MERN Stack E-Commerce Application**  
+  ⚙️ MongoDB • Express.js • React • Node.js  
+  🛍️ Full-featured e-commerce platform with authentication, product management, and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,mongodb,git,github,bootstrap,tailwind,figma,firebase,docker" />
+</p>
 
 ---
 
@@ -59,6 +79,16 @@ Building clean, responsive & user-friendly web applications
 </p>
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nio420)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nio420)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nio420&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/nio420)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nio420)  
 
 ## 🤝 Connect With Me
 
