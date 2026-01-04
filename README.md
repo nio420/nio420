@@ -83,15 +83,12 @@ Building clean, responsive & user-friendly web applications
 
 ---
 
-![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=nio420)
+![Web Developer](https://img.shields.io/badge/Web%20Developer-Professional-blue)
+![MERN](https://img.shields.io/badge/MERN%20Stack-Learning-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-Strong-yellow)
+![CSE](https://img.shields.io/badge/CSE-Graduate-informational)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nio420&row=1&column=5&no-frame=true)
-
-![Contribution Trophy](https://github-profile-summary-cards.vercel.app/api/cards/commit-time?username=nio420)
-
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nio420)
-
-![Metrics](https://metrics.lecoq.io/nio420?template=classic&achievements=1)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/nio420)  
