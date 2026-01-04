@@ -67,7 +67,7 @@ Building clean, responsive & user-friendly web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nio420&show_icons=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nio420&theme=default" />
 </p>
 
 <p align="center">
@@ -76,8 +76,18 @@ Building clean, responsive & user-friendly web applications
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nio420&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nio420&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nio420&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nio420&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nio420" />
+</p>
+
 
 ---
 
