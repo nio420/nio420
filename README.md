@@ -82,7 +82,7 @@ Building clean, responsive & user-friendly web applications
 
 
 ---
-<h3 align="center">🏆 Achievements & Focus</h3>
+<h3 align="left">🏆 Achievements & Focus</h3>
 
 <p align="left">
   🥇 Front-End Web Development <br/>
