@@ -83,14 +83,15 @@ Building clean, responsive & user-friendly web applications
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nio420&theme=default" />
-</p>
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=nio420)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nio420&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nio420&theme=default" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=nio420&row=1&column=5&no-frame=true)
+
+![Contribution Trophy](https://github-profile-summary-cards.vercel.app/api/cards/commit-time?username=nio420)
+
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nio420)
+
+![Metrics](https://metrics.lecoq.io/nio420?template=classic&achievements=1)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/nio420)  
