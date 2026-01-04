@@ -71,15 +71,6 @@ Building clean, responsive & user-friendly web applications
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nio420" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nio420&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nio420&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nio420&theme=default" />
 </p>
@@ -87,6 +78,7 @@ Building clean, responsive & user-friendly web applications
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nio420" />
 </p>
+>
 
 
 ---
