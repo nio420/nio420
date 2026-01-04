@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.jfif" alt="Naimul Islam Omit GitHub Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Naimul Islam Omit</h1>
 <h3 align="center">
 A passionate & detail-oriented Web Developer 💻 <br/>
