@@ -82,6 +82,16 @@ Building clean, responsive & user-friendly web applications
 
 
 ---
+<h3 align="center">🏆 Achievements & Focus</h3>
+
+<p align="center">
+  🥇 Front-End Web Development <br/>
+  🥈 MERN Stack Learning Path <br/>
+  🥉 CSE Graduate <br/>
+  🚀 Real-World Project Experience <br/>
+  💡 Problem Solver Mindset
+</p>
+
 
 ![Web Developer](https://img.shields.io/badge/Web%20Developer-Professional-blue)
 ![MERN](https://img.shields.io/badge/MERN%20Stack-Learning-success)
@@ -91,7 +101,7 @@ Building clean, responsive & user-friendly web applications
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/nio420)  
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nio420)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nio420)  
 
