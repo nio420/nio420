@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Naimul Islam Omit</h1>
 <h3 align="center">
 A passionate & detail-oriented Web Developer 💻 <br/>
-Building clean, responsive & user-friendly web applications
+Building clean, responsive & user-friendly web applications <br/>
+full stack developer.  
 </h3>
 
 <p align="center">
@@ -32,7 +33,7 @@ Building clean, responsive & user-friendly web applications
 
 - 🤝 I’m looking for help with **full stack**
 
-- 👨‍💻 All of my projects are available at [https://nio420.github.io/Portfolio/](https://naimul-islam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/nio420]
 
 - 💬 Ask me about **web development**
 
@@ -59,16 +60,16 @@ Building clean, responsive & user-friendly web applications
   ⚙️ MongoDB • Express.js • React • Node.js  
   🛍️ Full-featured e-commerce platform with authentication, product management, and responsive UI
 
-  - 🛒 **A modern rental management Application**  
-  ⚙️ PostgresQL • Express.js • Next.js • Prisma 
-  🛍️ Full-featured rental management platform with authentication, property management, payments, and user dashboards.
+🛒 **A modern rental management Application**  
+⚙️ PostgresQL • Express.js • Next.js • Prisma 
+🛍️ Full-featured rental management platform with authentication, property management, payments, and user dashboards.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,mongodb,git,github,bootstrap,tailwind,figma,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,redux,git,github,docker,firebase,figma" />
 </p>
 
 ---
@@ -113,9 +114,9 @@ Building clean, responsive & user-friendly web applications
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/naimul-islam-51365628b">
-    <img src="https://www.linkedin.com/in/md-naimul-islam-omit-b521011a1" />
-  </a>
+<a href="https://linkedin.com/in/naimul-islam-51365628b" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
   <a href="https://twitter.com/naimul420">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
