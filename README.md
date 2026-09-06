@@ -30,9 +30,9 @@ Building clean, responsive & user-friendly web applications
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🤝 I’m looking for help with **mern stack**
+- 🤝 I’m looking for help with **full stack**
 
-- 👨‍💻 All of my projects are available at [https://nio420.github.io/Portfolio/](https://nio420.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nio420.github.io/Portfolio/](https://naimul-islam.vercel.app/)
 
 - 💬 Ask me about **web development**
 
@@ -44,8 +44,8 @@ Building clean, responsive & user-friendly web applications
 - 💼 Former **junior web Engineer – Tech Soldier BPO**
 - 💰 **2+ years experience** in web development 
 - 🌐 Focused on **Full-Stack Web Development**
-- 🌱 Currently learning **Node.js & MERN Stack**
-- 🧠 Final Year Project: **Rescue Network & IoT Flood System**
+- 🌱 Currently learning **full Stack & AI Implement**
+- 🧠 Industry level Project: **Courier & Logistics platform**
 - ⚡ Fun fact: *I enjoy turning complex problems into simple, clean solutions.*
 
 ---
@@ -53,11 +53,15 @@ Building clean, responsive & user-friendly web applications
 ## 📌 Featured Projects
 
 - 🌐 **Portfolio Website**  
-  🔗 https://nio420.github.io/Portfolio/
+  🔗 https://naimul-islam.vercel.app/
 
 - 🛒 **MERN Stack E-Commerce Application**  
   ⚙️ MongoDB • Express.js • React • Node.js  
   🛍️ Full-featured e-commerce platform with authentication, product management, and responsive UI
+
+  - 🛒 **A modern rental management Application**  
+  ⚙️ PostgresQL • Express.js • Next.js • Prisma 
+  🛍️ Full-featured rental management platform with authentication, property management, payments, and user dashboards.
 
 ---
 
@@ -110,7 +114,7 @@ Building clean, responsive & user-friendly web applications
 
 <p align="center">
   <a href="https://linkedin.com/in/naimul-islam-51365628b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://www.linkedin.com/in/md-naimul-islam-omit-b521011a1" />
   </a>
   <a href="https://twitter.com/naimul420">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -118,7 +122,7 @@ Building clean, responsive & user-friendly web applications
   <a href="https://instagram.com/nio420">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:naimulislamomit2022@gmail.com">
+  <a href="mailto:naimulislamomit548@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
